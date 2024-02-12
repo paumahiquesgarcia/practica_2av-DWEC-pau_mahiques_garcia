@@ -1,18 +1,11 @@
 {
   "tasques": [
     {
-      "id": "1",
-      "asignatura": "Física",
-      "deadline": "2024-03-10",
-      "entregada": true,
-      "descripcio": "Resolver problemas de cinemática"
-    },
-    {
       "id": "2",
-      "asignatura": "Inglés",
-      "deadline": "2024-02-18",
-      "entregada": false,
-      "descripcio": "Ensayo sobre el cambio climático"
+      "asignatura": "fisica",
+      "deadline": "2024-02-23",
+      "entregada": "false",
+      "descripcio": "Tasca de fisica"
     },
     {
       "id": "3",
@@ -62,6 +55,13 @@
       "deadline": "2024-03-01",
       "entregada": true,
       "descripcio": "Desarrollar una aplicación web simple"
+    },
+    {
+      "id": "686547",
+      "asignatura": "quimica",
+      "deadline": "2024-02-29",
+      "entregada": false,
+      "descripcio": "Tasca de quimica"
     }
   ]
 }
