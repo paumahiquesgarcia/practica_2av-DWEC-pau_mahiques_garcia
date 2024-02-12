@@ -1,0 +1,67 @@
+{
+  "tasques": [
+    {
+      "id": "1",
+      "asignatura": "Física",
+      "deadline": "2024-03-10",
+      "entregada": true,
+      "descripcio": "Resolver problemas de cinemática"
+    },
+    {
+      "id": "2",
+      "asignatura": "Inglés",
+      "deadline": "2024-02-18",
+      "entregada": false,
+      "descripcio": "Ensayo sobre el cambio climático"
+    },
+    {
+      "id": "3",
+      "asignatura": "Matemáticas",
+      "deadline": "2024-03-05",
+      "entregada": true,
+      "descripcio": "Estudio para el examen de álgebra"
+    },
+    {
+      "id": "4",
+      "asignatura": "Historia",
+      "deadline": "2024-02-28",
+      "entregada": false,
+      "descripcio": "Investigación sobre la Revolución Industrial"
+    },
+    {
+      "id": "5",
+      "asignatura": "Biología",
+      "deadline": "2024-03-15",
+      "entregada": true,
+      "descripcio": "Identificación de especies de flora local"
+    },
+    {
+      "id": "6",
+      "asignatura": "Química",
+      "deadline": "2024-02-20",
+      "entregada": false,
+      "descripcio": "Realizar experimento de titulación"
+    },
+    {
+      "id": "7",
+      "asignatura": "Economía",
+      "deadline": "2024-03-08",
+      "entregada": true,
+      "descripcio": "Análisis de la inflación en el país"
+    },
+    {
+      "id": "8",
+      "asignatura": "Arte",
+      "deadline": "2024-02-22",
+      "entregada": false,
+      "descripcio": "Crear una obra inspirada en el surrealismo"
+    },
+    {
+      "id": "9",
+      "asignatura": "Programación",
+      "deadline": "2024-03-01",
+      "entregada": true,
+      "descripcio": "Desarrollar una aplicación web simple"
+    }
+  ]
+}
