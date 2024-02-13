@@ -44,7 +44,6 @@ export default {
     },
     methods: {
         afegirTasca() {
-            // Aquí pots fer el que vulguis amb les dades introduïdes (per exemple, afegir-les a una llista)
             this.novaTasca.id = Math.floor(Math.random() * 1000000);
             this.novaTasca.id = String(this.novaTasca.id)
             console.log("Element afegit:", this.novaTasca);
