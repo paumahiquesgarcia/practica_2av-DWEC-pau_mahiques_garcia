@@ -49,7 +49,6 @@ export default {
             console.log("Element afegit:", this.novaTasca);
             this.postTasca(this.novaTasca);
             this.tascaCreadaCorrecte = true;
-            // També pots reiniciar les dades del formulari si és necessari
             this.novaTasca = {
                 id: 999999,
                 asignatura: "",
